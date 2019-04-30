@@ -7,8 +7,8 @@ dependency_links = [
 ]
 
 dependencies = [
-    'Django>=1.8,<1.9',
-    'django-cms>=2.3.5,<2.3.6',
+    'Django==1.11.17',
+    'django-cms==3.5.3',
     'django-admin-extend',
 ]
 
